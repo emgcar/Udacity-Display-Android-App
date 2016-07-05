@@ -1,4 +1,4 @@
-# UdacityAndroidProject0
+# Udacity-Display-App
 
 This is the intro project for Udacity's Android Basics course. The buttons will eventually launch the apps that I make in this course.
 
